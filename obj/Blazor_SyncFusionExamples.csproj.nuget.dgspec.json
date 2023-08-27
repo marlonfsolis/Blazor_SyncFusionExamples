@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj": {}
+    "C:\\Projects\\.Net\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj": {
+    "C:\\Projects\\.Net\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj",
+        "projectUniqueName": "C:\\Projects\\.Net\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj",
         "projectName": "Blazor_SyncFusionExamples",
-        "projectPath": "C:\\Projects\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj",
-        "packagesPath": "C:\\Users\\marlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\Blazor\\Blazor_SyncFusionExamples\\obj\\",
+        "projectPath": "C:\\Projects\\.Net\\Blazor\\Blazor_SyncFusionExamples\\Blazor_SyncFusionExamples.csproj",
+        "packagesPath": "C:\\Users\\marlonfsolis\\.nuget\\packages\\",
+        "outputPath": "C:\\Projects\\.Net\\Blazor\\Blazor_SyncFusionExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marlonfsolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -72,7 +72,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[7.0.7, 7.0.7]"
+              "version": "[7.0.10, 7.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -80,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
