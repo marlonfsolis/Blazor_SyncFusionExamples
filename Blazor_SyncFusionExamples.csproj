@@ -9,6 +9,8 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="7.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="7.0.7" PrivateAssets="all" />
+    <PackageReference Include="Syncfusion.Blazor.Calendars" Version="22.2.5" />
+    <PackageReference Include="Syncfusion.Blazor.Navigations" Version="22.2.5" />
   </ItemGroup>
 
 </Project>

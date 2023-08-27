@@ -6,4 +6,21 @@
 
 Welcome to your new app.
 
+<hr/>
+<h3>How to call a method on click event. And how to change the state of the local property.</h3>
+<SfButton CssClass="e-primary" @onclick="SayHello">Say Hello!</SfButton>
+<h>@Message</h>
+
+<hr />
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+
+@code {
+    public string Message = string.Empty;
+
+    public void SayHello()
+    {
+        Message = "Hello from Blazor and Syncfusion app!!";
+        StateHasChanged();
+    }
+}
